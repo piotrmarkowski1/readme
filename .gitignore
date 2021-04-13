@@ -1,4 +1,4 @@
 # files to be ignored below 
 
-*.txt
-/many_files*
+*file_1
+*file_2
